@@ -5,7 +5,8 @@ LampLang is simple statically typed, compiled programming language wroted on Rus
 ## How it works?
 LampLang compiler translate code to C. Next it build C code and link with standard library.
 ## Getting Started
-You can write "Hello world" programe very easy on LampLang: ```
+You can write "Hello world" programe very easy on LampLang: 
+```
 use io
 print("{s}", "Hello, world")
 ```
